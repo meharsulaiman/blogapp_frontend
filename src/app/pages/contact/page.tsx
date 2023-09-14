@@ -5,7 +5,6 @@ import Navbar from '@/components/Navbar/Navbar'
 export default function Contact() {
   return (
     <main>
-      <Navbar/>
       <h1>Blog App Contact Page</h1>
     </main>
   )

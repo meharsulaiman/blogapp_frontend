@@ -8,11 +8,10 @@ import BlogsSlider from '@/components/BlogCards/BlogSlider'
 export default function Home() {
   return (
     <main>
-      <Navbar/>
       <HomeSlider/>
       <CategoriesSlider/>
       <BlogsSlider/>
-      <h1>Blog App Home Page</h1>
+      <h1>Foooter---</h1>
     </main>
   )
 }

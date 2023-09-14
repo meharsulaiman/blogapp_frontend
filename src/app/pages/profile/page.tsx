@@ -5,7 +5,6 @@ import Navbar from '@/components/Navbar/Navbar'
 export default function Profile() {
   return (
     <main>
-      <Navbar/>
       <h1>Blog App Profile Page</h1>
     </main>
   )

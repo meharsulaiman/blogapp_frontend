@@ -1,15 +1,18 @@
 /* styles/Navbar.module.css */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  padding: 10px 20px;
+  padding: 10px 0px;
   background-color: #000000;
   color: white;
+  width: 100%;
 }
+
 .navbar .icon {
   font-size: 30px;
 }
+
 .navbar-left {
   display: flex;
   gap: 10px;
@@ -41,4 +44,5 @@
 .navbar .icon:hover {
   fill: var(--col1);
 }
+
 /* Add more styles as needed */
