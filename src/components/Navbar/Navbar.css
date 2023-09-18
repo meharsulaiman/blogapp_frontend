@@ -45,4 +45,19 @@
   fill: var(--col1);
 }
 
+.navbar-right button {
+  background-color: var(--col1);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.navbar-right button:hover {
+  background-color: var(--col2);
+}
 /* Add more styles as needed */

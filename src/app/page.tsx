@@ -5,6 +5,7 @@ import HomeSlider from '@/components/HomeSlider/HomeSlider'
 import CategoriesSlider from '@/components/Categories/CategoriesSlider'
 import BlogsSlider from '@/components/BlogCards/BlogSlider'
 
+
 export default function Home() {
   return (
     <main>
